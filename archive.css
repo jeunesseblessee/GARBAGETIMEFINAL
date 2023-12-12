@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:"HelveticaNeue-CondensedBold";
+   
+    
+
+}
+
+body{
+    background:#F5F5F5;
+
+}
+
+
+
+.link-button-list{
+
+    padding: 30px;
+    margin-top:0;
+    text-decoration: none;
+    list-style: none;
+    font-size: 140px;
+
+}
+
+a{
+
+    text-decoration: none;
+}
